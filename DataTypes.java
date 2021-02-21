@@ -10,12 +10,14 @@ public class DataTypes {
 		int i = 10;
 		//int i=20; duplicate data types not allowed
 		i=20; //We can update data types value 
+		int j=30;
 		
 	System.out.println(i);
 	System.out.println(i++);
 	System.out.println(i);
 	System.out.println(++i);
 	System.out.println(i);
+	System.out.println(j);
 		
 	}
 
